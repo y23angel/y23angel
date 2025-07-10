@@ -39,6 +39,4 @@ A full-stack online bookstore project where I contributed to:
 
 ---
 
-### 😄 Fun fact
 
-I love solving logic puzzles and improving code step by step — like solving a mystery with syntax!
