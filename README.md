@@ -1,16 +1,44 @@
-## Hi there 👋
+## 👋 Hi there, I'm KyoungA Yun (윤경아)
 
-<!--
-**y23angel/y23angel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Network Engineer & Software Developer** based in Vancouver, Canada, with 9 years of experience in embedded systems and communication protocols. Currently, I’m expanding my skills in **C++**, **network security**, and **cloud technologies** through hands-on projects and academic studies at Langara College.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m currently working on
+
+- Object-oriented programming and data structures using **C++**
+- Building secure systems and exploring **network security**
+- Strengthening backend skills through **real-world project collaboration**
+
+---
+
+### 🌱 What I’m currently learning
+
+- Vulnerability analysis and threat modeling  
+- AWS networking tools (VPC, IAM, EC2 basics)  
+- Advanced **OOP** design principles and STL in C++  
+- GitHub collaboration & version control best practices
+
+---
+
+### 💼 Projects
+
+**[📘 Bookify](https://github.com/tarandeepk02/Bookify)**  
+A full-stack online bookstore project where I contributed to:
+- 🔧 Implementing frontend React components  
+- 📖 Creating book detail pages with MongoDB data  
+- 🔁 Handling book CRUD operations  
+- 🔗 REST API integration for frontend-backend communication
+
+---
+
+### 📫 How to reach me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kyounga-yun-8354b9231/)
+- 📧 daeunlove0525@gmail.com
+
+---
+
+### 😄 Fun fact
+
+I love solving logic puzzles and improving code step by step — like solving a mystery with syntax!
