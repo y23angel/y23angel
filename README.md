@@ -23,7 +23,7 @@ I’m a **Network Engineer & Software Developer** based in Vancouver, Canada, wi
 
 ### 💼 Projects
 
-**[📘 Bookify](https://github.com/tarandeepk02/Bookify)**  
+**[📘 Bookify](https://github.com/tarandeepk02/Bookify)](https://github.com/y23angel/Bookify)**  
 A full-stack online bookstore project where I contributed to:
 - 🔧 Implementing frontend React components  
 - 📖 Creating book detail pages with MongoDB data  
