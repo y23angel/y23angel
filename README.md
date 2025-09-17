@@ -23,6 +23,9 @@ I’m a **Network Engineer & Software Developer** based in Vancouver, Canada, wi
 
 ### 💼 Projects
 
+** 🛡️ [System Security Labs](https://github.com/y23angel/System-security-labs) **
+  Hands-on security lab notes (Bind/Reverse TCP, setuid, nmap, Nessus etc.).
+  
 **[📘 Bookify](https://github.com/tarandeepk02/Bookify)](https://github.com/y23angel/Bookify)**  
 A full-stack online bookstore project where I contributed to:
 - 🔧 Implementing frontend React components  
