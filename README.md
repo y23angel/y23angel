@@ -35,6 +35,7 @@ A full-stack online bookstore project where I contributed to:
 - 🔗 REST API integration for frontend-backend communication
 
 **[📷 ESP-EYE + Edge Impulse ML Project](https://github.com/y23angel/esp-eye-edge-impulse-ml)**
+
 Working on deploying embedded machine-learning features on the ESP-EYE board using Edge Impulse.
 
 Current progress includes:
