@@ -43,10 +43,10 @@ Current progress includes:
 - Connecting the device with Edge Impulse Studio and preparing the pipeline
 - Debugging serial outputs and verifying data capture workflow
 - Testing camera functionality and preparing datasets for future model training
+  
 Next steps:
 - Train and deploy object-detection or audio-recognition models
 - Evaluate real-time inference performance on-device
-
 This project strengthens my experience with embedded systems, hardware-software integration, and early-stage ML deployment workflows.
 ---
 
