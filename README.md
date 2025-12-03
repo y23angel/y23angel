@@ -34,6 +34,19 @@ A full-stack online bookstore project where I contributed to:
 - 🔁 Handling book CRUD operations  
 - 🔗 REST API integration for frontend-backend communication
 
+**[ESP-EYE + Edge Impulse ML Project](https://github.com/y23angel/esp-eye-edge-impulse-ml)**
+Working on deploying embedded machine-learning features on the ESP-EYE board using Edge Impulse.
+Current progress includes:
+- Setting up ESP-EYE firmware, flashing, and UART configuration
+- Connecting the device with Edge Impulse Studio and preparing the pipeline
+- Debugging serial outputs and verifying data capture workflow
+- Testing camera functionality and preparing datasets for future model training
+
+Next steps:
+- Train and deploy object-detection or audio-recognition models
+- Evaluate real-time inference performance on-device
+
+This project strengthens my experience with embedded systems, hardware-software integration, and early-stage ML deployment workflows.
 ---
 
 ### 📫 How to reach me
